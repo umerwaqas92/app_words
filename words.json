@@ -23,5 +23,5 @@
     {"word": "Today", "description": "The present day."},
     {"word": "Tomorrow", "description": "The day after today."},
     {"word": "Yesterday", "description": "The day before today."},
-    {"word": "Morning", "description": "The early part of the day."},
+    {"word": "Morning", "description": "The early part of the day."}
  ]
